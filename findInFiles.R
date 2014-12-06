@@ -1,3 +1,6 @@
+
+#------------------------------------------------------------------------------------------------
+
 #' @name FindInFiles
 #' 
 #' @title Function to find a search pattern in a file and return the line numbers and the line text
