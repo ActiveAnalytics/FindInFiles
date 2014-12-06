@@ -33,3 +33,6 @@ The `findInFolder` function allows users to look for search patterns in files lo
 # Usage: Searching the files in a folder with file names ending with ".r" or ".R" for the search pattern "someFunction" ...
 findInFolder(fPath = "path/to/folder", pattern = "someFunction", fpattern = "[.][rR]$")
 ```
+## Contact
+
+For more information contact chibisi@active-analytics.com
