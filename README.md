@@ -3,7 +3,7 @@ FindInFiles
 
 Set of R functions to look for search terms in files
 
-This set of R functions are the result of a [blog](http://www.active-analytics.com/blog/finding-things-in-files/) written about searching for items in text files. It could be a tool for developers want to search for functions in a code file or files without paging through multiple lines of text and searching by eye.
+This set of R functions are the result of a <a href="http://www.active-analytics.com/blog/finding-things-in-files/" target="_blank"></a> written about searching for items in text files. It could be a tool for developers want to search for functions in a code file or files without paging through multiple lines of text and searching by eye.
 
 There are three main functions
 
