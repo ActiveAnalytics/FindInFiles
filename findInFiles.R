@@ -52,8 +52,6 @@ findInFiles <- function(fPaths, pattern = NULL, case = TRUE, asDF = TRUE){
   return(output)
 }
 
-# Function to find a pattern in some type of file in a folder
-
 #' @name findInFolder
 #' @title Function to find search pattern in files in a folder
 #' 
