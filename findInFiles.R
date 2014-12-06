@@ -1,4 +1,3 @@
-
 #------------------------------------------------------------------------------------------------
 
 #' @name FindInFiles
@@ -76,3 +75,5 @@ findInFolder <- function(fPath, pattern, fpattern = NULL, case = TRUE, asDF = TR
   output <- findInFiles(fPaths, pattern, case, asDF)
   return(output)
 }
+
+#------------------------------------------------------------------------------------------------
