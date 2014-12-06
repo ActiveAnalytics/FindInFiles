@@ -32,6 +32,8 @@ findInFile <- function(fPath, pattern, case = TRUE){
   return(output)
 }
 
+#------------------------------------------------------------------------------------------------
+
 #' @name findInFiles
 #' @title Function to find a search pattern in multiple files
 #' 
@@ -51,6 +53,8 @@ findInFiles <- function(fPaths, pattern = NULL, case = TRUE, asDF = TRUE){
     output <- do.call(rbind.data.frame, output)
   return(output)
 }
+
+#------------------------------------------------------------------------------------------------
 
 #' @name findInFolder
 #' @title Function to find search pattern in files in a folder
